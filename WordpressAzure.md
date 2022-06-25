@@ -8,3 +8,6 @@
 
 ![Captura de pantalla (70)](https://user-images.githubusercontent.com/49338963/175760172-e20d0fdb-9085-45c9-aea0-618eafb63796.png)
 
+### Clic en revisar y crear, luego, crear.
+
+![Captura de pantalla (71)](https://user-images.githubusercontent.com/49338963/175760191-4c899a64-dc12-4a74-b337-827b9d6c92af.png)
